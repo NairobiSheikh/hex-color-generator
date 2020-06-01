@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #c9d6df;
 }
 
 #header {
@@ -10,12 +9,7 @@ body {
     left: 50%;
     transform: translate(-50%, -240%);
     text-align: center!important;
-    border: none;
-    outline: none;
-    font-size: 35px;
 }
-
-
 #btn {
     position: absolute;
     top: 50%;
@@ -25,10 +19,5 @@ body {
     background-color: #6c757d;
     border-color: #6c757d;
     border-radius: .25rem;
-    outline: 0;
-    box-shadow: 0 0 0 0.2rem rgba(108,117,125,.5);
     font-size: 18px;
-    color: #fff;
-    text-transform: uppercase;
-    cursor: pointer;
 }
